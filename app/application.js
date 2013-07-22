@@ -1,8 +1,6 @@
 Ext.define('project_app.Application', {
     name: 'project_app',
-
     extend: 'Ext.app.Application',
-
     views: [
         // TODO: add views here
     ],

@@ -9,6 +9,4 @@
     <link rel="stylesheet" type="text/css" href="resources/css/app.css">
     
 </head>
-
-
 </html>

@@ -23,12 +23,7 @@ Ext.define('project_app.view.Viewport', {
     },{
         region: 'center',
         bodyCls: 'icon-square',
-        xtype: 'tabpanel',
-        items:[{
-            title: 'Center Tab 1',
-             border: false,
-            closable: true
-        }]
+        xtype: 'tabpanel'       
     },{ 
         region: 'south',
         border: false,
