@@ -22,7 +22,7 @@ Ext.define('project_app.view.Header', {
             },{
                 xtype: 'label',
                 style: { color: 'White'},
-                text: ''
+                text: 'Jessonle Solana'
             },
             '-',
             {

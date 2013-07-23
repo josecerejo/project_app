@@ -37,7 +37,7 @@ Ext.application({
                 }
             });
         });
-        // Run the fade 500 milliseconds after launch.
+        // Run the fade 200 milliseconds after launch.
         task.delay(200);
     },
     
